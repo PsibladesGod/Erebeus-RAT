@@ -98,9 +98,9 @@ To avoid GitHub restrictions and provide high-quality demonstrations, all screen
 - **Mobile App** live usage videos.
 
 <div align="center">
-  <a href="[https://t.me/YourChannelLink](https://t.me/erebusprojects)">
-    <img src="https://img.shields.io/badge/Join_Telegram_Channel-View_Screenshots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="View Screenshots">
-  </a>
+
+[![Join Telegram](https://img.shields.io/badge/Join_Telegram_Channel-View_Screenshots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/erebus])
+
 </div>
 
 ## 🛒 Purchase
@@ -111,7 +111,7 @@ To avoid GitHub restrictions and provide high-quality demonstrations, all screen
 - **Source Code:** Discussed privately.
 
 **Contact:**
-- **Telegram:** [@erebusprojects]([https://t.me/YourTag](https://t.me/erebusprojects))
+- **Telegram:** [@erebusprojects][(https://t.me/erebusprojects)]
 
 ---
 *Disclaimer: This tool is for educational purposes and authorized security testing only. I am not responsible for any damage caused by this software.*
