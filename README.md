@@ -99,7 +99,7 @@ To avoid GitHub restrictions and provide high-quality demonstrations, all screen
 
 <div align="center">
 
-[![Join Telegram](https://img.shields.io/badge/Join_Telegram_Channel-View_Screenshots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/erebus])
+[![Join Telegram](https://img.shields.io/badge/Join_Telegram_Channel-View_Screenshots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/erebusprojects)
 
 </div>
 
@@ -111,7 +111,7 @@ To avoid GitHub restrictions and provide high-quality demonstrations, all screen
 - **Source Code:** Discussed privately.
 
 **Contact:**
-- **Telegram:** [@erebusprojects][(https://t.me/erebusprojects)]
+- **Telegram:** [@erebusprojects](https://t.me/erebusprojects)
 
 ---
 *Disclaimer: This tool is for educational purposes and authorized security testing only. I am not responsible for any damage caused by this software.*
