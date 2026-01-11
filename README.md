@@ -96,7 +96,6 @@ To avoid GitHub restrictions and provide high-quality demonstrations, all screen
 - Full Server Dashboard walkthrough.
 - **Erebeus Studio** builder demonstration.
 - **Mobile App** live usage videos.
-- Proof of HVNC and Stealer working.
 
 <div align="center">
   <a href="[https://t.me/YourChannelLink](https://t.me/erebusprojects)">
